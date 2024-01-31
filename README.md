@@ -14,6 +14,9 @@ The locals aren't friendly either. Undaunted, the astronaut bravely faces these 
 Rules:
 
 Move character:  Arrow keys
+
 Vanish random ground:  Enter/Space
+
 Boost speed:  Shift
+
 Description:  Stay clear of the indigenous inhabitants and be cautious, as vanishing ground can lead to falling into a black hole.
